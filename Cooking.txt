@@ -12,4 +12,12 @@ Non-veg Menu List
 #Fish
 
 
+Colddrinks 
+#Thums up
+#Mango shake
+#Mastani
+#Apple Juice
+
+
+Finally done with the Colddrink section
 Finally done with veg and non veg section
