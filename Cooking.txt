@@ -20,3 +20,4 @@ Colddrinks
 
 
 Finally done with the Colddrink section
+Finally done with veg and non veg section
