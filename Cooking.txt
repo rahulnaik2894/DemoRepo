@@ -3,3 +3,10 @@ Veg Menu List
 #Paneer masala
 #Paneer Tikka
 #Veg Kolhapuri
+
+
+
+Non-veg Menu List
+#Chicken Curry
+#Mustton Masalaa
+#Fish
