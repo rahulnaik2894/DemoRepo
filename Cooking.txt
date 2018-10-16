@@ -10,3 +10,10 @@ Non-veg Menu List
 #Chicken Curry
 #Mustton Masalaa
 #Fish
+
+
+Colddrinks 
+#Thums up
+#Mango shake
+#Mastani
+#Apple Juice
